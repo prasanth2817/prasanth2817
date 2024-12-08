@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJs, NodeJs, HTML, CSS, JS,...**
 
-- 📫 How to reach me **prasanth2817@gmail.com**
+- 📫 How to reach me **prasanth2817ss@gmail.com**
 
 - ⚡ Fun fact **"The First computer bug was actually a real bug🐛**
 
